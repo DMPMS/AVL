@@ -12,4 +12,4 @@ TESTES
 - Em cada AVL foi removido 1.000 nós e verificado se haviam 9.000 nós. Após as remoções, é verificado se a árvore é AVL pelo algoritmo de verificação.
 
 REFERÊNCIA DO LIVRO
-RIVEST, Ronald L.; LEISERSON, Charles E.; CORMEN, Thomas H.. Introduction to Algorithms. 3ª. Edição, 2009.
+- RIVEST, Ronald L.; LEISERSON, Charles E.; CORMEN, Thomas H.. Introduction to Algorithms. 3ª. Edição, 2009.
